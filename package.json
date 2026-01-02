@@ -1,8 +1,1 @@
-{
-  "name": "school-management-app-backend",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "flutter build web"
-  }
-}
+﻿"@{ name = \"school-cronjob\"; version = \"1.0.0\"; private = $true }"
